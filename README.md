@@ -1,6 +1,3 @@
-Here's an updated README to include **Material-UI** for the frontend, which integrates with **React** for building a responsive and visually appealing UI.
-
----
 
 # Email Writer Assistant
 
